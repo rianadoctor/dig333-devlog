@@ -16,7 +16,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad and link to it here.
 
-- [Link to tinkercad file:](https://www.tinkercad.com/things/lC7j1QjTL2g-led-and-9v-battey) 
+- [Link to tinkercad file](https://www.tinkercad.com/things/lC7j1QjTL2g-led-and-9v-battey) 
 
 
 
