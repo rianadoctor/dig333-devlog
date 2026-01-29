@@ -16,7 +16,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Follow the [class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g10e831bd841_0_47#slide=id.g10e831bd841_0_47) to create a functioning circuit on Tinkercad and link to it here.
 
-- [Link to tinkercad file](https://www.tinkercad.com/things/lC7j1QjTL2g-led-and-9v-battey) 
+- [Tinkercad File](https://www.tinkercad.com/things/lC7j1QjTL2g-led-and-9v-battey) 
 
 
 
@@ -28,7 +28,7 @@ https://stackoverflow.com/a/50916345/441878
 
 3\. 📚 Read Chapter 01 - A People's History of Electronic Music (2-14) and Chapter 02 - Musical Electricity for Electrophobes (15-up to 38) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
-I really liked Pearson’s definition of music technology as “finding musical applications for apparently nonmusical things.” I liked how this reframed electronic music as experimentation and play rather than something exclusive or overly technical. It made the idea of building circuits and instruments feel more accessible and creative, not intimidating.
+- I really liked Pearson’s definition of music technology as “finding musical applications for apparently nonmusical things.” I liked how this reframed electronic music as experimentation and play rather than something exclusive or overly technical. It made the idea of building circuits and instruments feel more accessible and creative, not intimidating.
 
 
 4\. Explore Ishkur’s Guide to Electronic Music 2.0 https://music.ishkur.com/ referenced by Pearson. Describe the influence of one genre from this guide on your current musical listening habits. `(2-3 sentences)`
@@ -48,7 +48,7 @@ I really liked Pearson’s definition of music technology as “finding musical 
 
 6\. The Moog video references ideas also presented in Pearson's "Speaker as microphone" experiment (p.37) explain what a microphone, a speaker, and the human ear have in common? (2-3 sentences) 
 
-- A microphone, a speaker, and the human ear all work by converting sound waves into vibrations and electrical signals. Microphones turn sound into electricity, speakers turn electricity back into sound, and the ear translates vibrations into signals the brain understands. They’re all doing the same job in different directions: translating sound between physical and electrical forms.
+- A microphone, a speaker, and the human ear all work by converting sound waves into vibrations and electrical signals. Microphones turn sound into electricity, speakers turn electricity back into sound, and the ear translates vibrations into signals the brain understands. They’re all doing the same job in different directions, which is  translating sound between physical and electrical forms.
 
 
 
@@ -67,12 +67,12 @@ I really liked Pearson’s definition of music technology as “finding musical 
 
 8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
 
-- https://github.com/rianadoctor/dig333-devlog
+- [Public Repo](https://github.com/rianadoctor/dig333-devlog)
 
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
-- https://rianadoctor.github.io/dig333-devlog/
+- [DevLog Link](https://rianadoctor.github.io/dig333-devlog/)
 
 
 10\. Paste the public link (the live github.io URL) to this finished DevLog into Moodle before (by 8am) the next class.
