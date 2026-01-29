@@ -62,7 +62,6 @@ https://stackoverflow.com/a/50916345/441878
 
 
 
-
 9\. 🎬 Watch [Synthesizing with Moog - Lesson 2: Dynamics](https://www.youtube.com/watch?v=gH4FNmoN7Z0) (15:33). Which tells us that every musical sound has three defining characteristics. What are they?
 
 - The volume of the sound: Amplitude 
