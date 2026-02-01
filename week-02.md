@@ -25,7 +25,6 @@ https://stackoverflow.com/a/50916345/441878
 - [Tinkercad File](https://www.tinkercad.com/things/gzK56x3iQsj-voltage-drop-and-amps-using-multimeters)
 
 
-
 3\. 📚 Read Chapter 02 - Musical Electricity for Electrophobes (39-45) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). Write a comment on one of Pearson's phrases that speaks to you. (2-3 sentences) 
 
 - I really liked the phrase “sound is a single line moving through time”. It made sound and music feel less like an object and more like constant change. Thinking about how pressure and voltage are always shifting helped me understand what’s actually happening when sound is produced.
@@ -37,7 +36,9 @@ https://stackoverflow.com/a/50916345/441878
 
 5\. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 
-- Add video documentation of a performance of your musical instrument.
+-  I started thinking of the circuit less like an “instrument” and more like something you interact with physically. Instead of knobs or keys, the sound changes based on tapping, pressure, and how you touch the circuit, which makes it feel more expressive and unpredictable. With more components, I’d want to experiment with shaping the sound more intentionally—especially how fast it starts and fades. I’m curious how adding simple things like resistors or capacitors would change the attack and decay depending on how the circuit is played. If I had more time and materials, I’d also test how playing the same circuit through different surfaces (wood, metal, plastic) affects the character of the sound. 
+
+(Video documentation coming once the instrument is more finalized.)
 
 
 
@@ -57,9 +58,6 @@ https://stackoverflow.com/a/50916345/441878
 
 - On the Snap-on Waveform demo board, one potentiometer controls duty cycle, while the other controls frequency. Duty cycle is commonly used for things like brightness control or volume shaping, while frequency is used to control pitch or speed.
 
-(picture)
-
-
 
 9\. 🎬 Watch [Synthesizing with Moog - Lesson 2: Dynamics](https://www.youtube.com/watch?v=gH4FNmoN7Z0) (15:33). Which tells us that every musical sound has three defining characteristics. What are they?
 
@@ -69,10 +67,6 @@ https://stackoverflow.com/a/50916345/441878
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gH4FNmoN7Z0?si=the6122ZQvX1Yjif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-
 
 
 10\. If you were to make a list of your top 10 songs, share a link (e.g. youtube) to one that demonstrates an envelope generator at work, as well as the timecode for that position. Here is an example: 
@@ -97,7 +91,7 @@ https://stackoverflow.com/a/50916345/441878
 Share details about other electronic experiments you are working on this week?
 -->
 
-- (plan to) Experimented with listening to vibrations through different surfaces and contact points, noticing how material and pressure dramatically affect perceived sound.
+- I experimented with listening to vibrations through different surfaces and contact points and noticed how much material and pressure matter. Harder surfaces made the sound feel sharper, while softer ones dampened it and made it feel more muted.
 
 
 
@@ -107,4 +101,4 @@ Share details about other electronic experiments you are working on this week?
 Share questions you would like to bring up in class.
 -->
 
-- 
+-  How do you know when adding more components is actually shaping the sound versus just making the circuit more complicated?
