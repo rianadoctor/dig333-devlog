@@ -17,8 +17,7 @@ https://stackoverflow.com/a/50916345/441878
 
 1\. Create an LED circuit with a ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). Record the voltage drop from each step and amps used in the circuit: 
 
-- I built a basic LED circuit following the class presentation and measured the voltage drop across each component using a multimeter. The LED had a voltage drop of about ()~V, and the remaining voltage was dropped across the resistor. The circuit drew approximately ~() mA of current.
-
+- The LED had a voltage drop of about ~1.8 V, and the remaining voltage was dropped across the resistor (~1.2 V). The circuit drew approximately ~1.2 mA of current.
 
 
 2\. Create a three-LED circuit on Tinkercard and measure Voltage Drop and amps using their multimeters ([class presentation](https://docs.google.com/presentation/d/1G4jdcr8KzWpIiIduQyFiQJEG-PFJHpovJb9rWhxhNYw/edit?slide=id.g1f89d7c4b1c_0_53#slide=id.g1f89d7c4b1c_0_53)). 
