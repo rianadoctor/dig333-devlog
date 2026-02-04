@@ -36,7 +36,9 @@ https://stackoverflow.com/a/50916345/441878
 
 5\. Create a groundbreaking musical instrument using Pearson's advice in the conclusion of the chapter to customize your circuit to play sound in a new way.
 
--  [Video documentation]()
+-  I started thinking of the circuit less like an “instrument” and more like something you interact with physically. Instead of knobs or keys, the sound changes based on tapping, pressure, and how you touch the circuit, which makes it feel more expressive and unpredictable. I’m also curious how adding simple things like resistors or capacitors would change the attack and decay depending on how the circuit is played. If I had more time and materials, I’d also test how playing the same circuit through different surfaces (wood, metal, plastic) affects the character of the sound.
+
+Video documentation (coming soon wasn't able to get materials due to storm)
 
 
 6\. 📚 Read Chapter 03 - The Hello World Oscillator (46-59) in [Electronic music from scratch](https://www.makershed.com/products/make-electronic-music-pdf) (Pearson). In your own words, why should you be careful with capacitors?
