@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=c3udLCvoCC0
 
 10\. List one thing you learned in the [Learning Synth Playground](https://learningsynths.ableton.com/en/playground) by Ableton 
 
-- One thing I learned was how filters dramatically change a sound by removing certain frequencies. Small adjustments to cutoff and resonance made big differences,
+- One thing I learned was how filters dramatically change a sound by removing certain frequencies. Small adjustments to cutoff and resonance made big differences.
 
 
 
