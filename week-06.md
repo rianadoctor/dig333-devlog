@@ -41,22 +41,22 @@ python hello.py
 
 3\. Why shouldn't you power your Raspberry Pi from your computer USB? ✏️
 
-- Because your computer’s USB port might not provide enough power. That can cause unstable behavior, random shutdowns, or even damage the board. It’s safer to use a proper power supply that provides enough current.
+- You shouldn't power your Raspberry Pi from your computer USB because your computer’s USB port might not provide enough power. This can cause unstable behavior, random shutdowns, or even damage the board. So, it's overall safer to use a proper power supply that provides enough current.
 
 
 4\. Of the ways to destroy a Raspberry Pi, which are you most likely to do? How will you keep from doing it? ✏️
 
-- I’d probably mess it up by shorting something with wires or plugging something into the wrong GPIO pin. To prevent that, I’d double-check wiring before powering it on and avoid touching components while it’s powered.
+- I’d probably mess it up by shorting something with wires or plugging something into the wrong GPIO pin. To prevent that, I would double-check wiring before powering it on and avoid touching components while it’s powered.
 
 
 5\. Raspberry Pi OS is based on what Linux distribution? What does that even mean? ✏️
 
-- Raspberry Pi OS is based on Debian Linux. That means it’s built from the Debian operating system, so it uses the same core system structure and package manager. It’s basically a customized version of Debian made to run well on Raspberry Pi hardware.
+- Raspberry Pi OS is based on Debian Linux, which means that it’s built from the Debian operating system. So, it uses the same core system structure and package manager. This basically means that it's a customized version of Debian made to run well on Raspberry Pi hardware.
 
 
 6\. What does it mean to "Flash" your SD Card? ✏️
 
-- Flashing an SD card means writing an operating system image onto it so the Raspberry Pi can boot from it. It’s like installing the OS onto the card.
+- Flashing an SD card means writing an operating system image onto it so the Raspberry Pi can boot from it. In other words, it's like installing the OS onto the card.
 
 
 7\. What does it mean if you see a red light and a flashing green light on your powered Raspberry Pi? ✏️
@@ -91,7 +91,7 @@ python hello.py
 Share details about other electronic experiments you are working on this week?
 -->
 
-- 
+- N/A
 
 
 
@@ -101,4 +101,4 @@ Share details about other electronic experiments you are working on this week?
 Share questions you would like to bring up in class.
 -->
 
-- 
+- N/A
