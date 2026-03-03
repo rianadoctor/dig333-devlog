@@ -30,7 +30,7 @@ https://stackoverflow.com/a/50916345/441878
 
 4\. 📚Read Brian Merchant [Everything That’s Inside Your iPhone](https://www.vice.com/en/article/everything-thats-inside-your-iphone/) Motherboard (2017). ✏️ Write a reflection below:
 
-- Your response
+- I found Everything That’s Inside Your iPhone really interesting because it broke down something I use every day but never really think about. I didn’t realize how many different countries, materials, and labor systems are involved in making one phone. It made me more aware of how disconnected we are from the physical and human cost behind our technology. As someone studying computer science, it pushed me to think beyond just code and consider the bigger systems that make computing possible.
 
 
 5\. 📚Read Chapter 7 (80-91) Physical Computing with Pico. Post documentation of your Burglar Alarm.
