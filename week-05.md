@@ -16,9 +16,9 @@ https://stackoverflow.com/a/50916345/441878
 
 
 1\. 📚Read Chapter 5 (58-67) Physical Computing with Pico. Post documentation of your Traffic light controller
-![Traffic Light Circuit Red](red.png)
-![Traffic Light Circuit Yellow](yellow.png)
-![Traffic Light Circuit Green](green.png)
+![Traffic Light Circuit Red](img/red.png)
+![Traffic Light Circuit Yellow](img/yellow.png)
+![Traffic Light Circuit Green](img/green.png)
 
 
 2\. 📚Read Chapter 6 (68-79) Physical Computing with Pico. Post documentation of your Reaction Game
