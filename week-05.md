@@ -38,6 +38,10 @@ https://stackoverflow.com/a/50916345/441878
 
 
 6\. 📚Read Chapter 8 (92-103 ) Physical Computing with Pico. Post documentation of your Temperature gauge.
+![Temperature gauge](img/temp_gauge.png)
+Below shows the output of temperature in Celsius
+![Temperature gauge results](img/temp.png)
+
 
 
 7\. Post documentation showing audio from your Pico
