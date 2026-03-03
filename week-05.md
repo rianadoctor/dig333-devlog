@@ -15,14 +15,10 @@ https://stackoverflow.com/a/50916345/441878
 
 
 
-
-
-
-
-
-
 1\. 📚Read Chapter 5 (58-67) Physical Computing with Pico. Post documentation of your Traffic light controller
-
+![Traffic Light Circuit Red](red.png)
+![Traffic Light Circuit Yellow](yellow.png)
+![Traffic Light Circuit Green](green.png)
 
 
 2\. 📚Read Chapter 6 (68-79) Physical Computing with Pico. Post documentation of your Reaction Game
@@ -30,6 +26,7 @@ https://stackoverflow.com/a/50916345/441878
 
 3\. Post documentation showing data from an analog sensor.
 
+- Did in class already, but will redo with images. 
 
 4\. 📚Read Brian Merchant [Everything That’s Inside Your iPhone](https://www.vice.com/en/article/everything-thats-inside-your-iphone/) Motherboard (2017). ✏️ Write a reflection below:
 
