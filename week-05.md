@@ -81,7 +81,7 @@ https://stackoverflow.com/a/50916345/441878
 Share details about other electronic experiments you are working on this week?
 -->
 
-- 
+- N/A
 
 
 
@@ -91,4 +91,4 @@ Share details about other electronic experiments you are working on this week?
 Share questions you would like to bring up in class.
 -->
 
-- 
+- N/A
