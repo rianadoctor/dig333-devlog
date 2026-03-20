@@ -22,11 +22,11 @@ https://stackoverflow.com/a/50916345/441878
 
 
 2\. 📚Read Chapter 6 (68-79) Physical Computing with Pico. Post documentation of your Reaction Game
-
+- Completed in class
 
 3\. Post documentation showing data from an analog sensor.
 
-- Did in class already, but will redo with images. 
+- Completed in class 
 
 4\. 📚Read Brian Merchant [Everything That’s Inside Your iPhone](https://www.vice.com/en/article/everything-thats-inside-your-iphone/) Motherboard (2017). ✏️ Write a reflection below:
 
@@ -34,13 +34,12 @@ https://stackoverflow.com/a/50916345/441878
 
 
 5\. 📚Read Chapter 7 (80-91) Physical Computing with Pico. Post documentation of your Burglar Alarm.
-
+- Completed in class
 
 
 6\. 📚Read Chapter 8 (92-103 ) Physical Computing with Pico. Post documentation of your Temperature gauge.
 ![Temperature gauge](img/temp_gauge.png)
 ![Temperature gauge results](img/temp.png)
-
 
 
 7\. Post documentation showing audio from your Pico
